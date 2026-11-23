@@ -10,9 +10,9 @@
 - **Data & Visualization**: Pandas, NumPy, Matplotlib, Plotly, Dash, GeoDa
 - **Databases & Development**: SQLite, SQLAlchemy, MySQL, Flask, pydantic, pytest, Java (OOP, JDBC)
 - **Tools**: Git, GitHub, Hugging Face, Jupyter Notebook, Google Colab
-**Projects**
 
- 
+  
+**Projects**
 - [Vulnérabilité des personnes âgées aux températures extrêmes](https://github.com/parrin-lilou/vulnerabilite-climat-personnes-agees) — Unsupervised clustering (k-means, SKATER) of 1,223 French intercommunalities under 2081-2100 climate scenarios (Python, GeoDa)
 - [Vieillir en France](https://github.com/parrin-lilou/vieillir-en-france-dashboard) — Interactive dashboard on the situation of older people in France, with an open-data pipeline and 178 unit tests (Dash, Plotly, SQLite)
 - [SeinTinelle](https://github.com/parrin-lilou/seintinelle-breast-cancer-detection) — Breast cancer detection & risk prediction web app combining 3 AI models (Flask, TensorFlow, PyTorch)
