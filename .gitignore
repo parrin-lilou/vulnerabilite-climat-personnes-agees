@@ -1,0 +1,4 @@
+.DS_Store
+__pycache__/
+# Données brutes trop volumineuses (rasters WorldClim, shapefile) : voir README
+data/
